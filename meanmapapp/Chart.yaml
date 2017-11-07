@@ -1,0 +1,4 @@
+apiVersion: v1
+description: The MEAN Map App packaged for Kubernetes
+name: meanmapapp
+version: 1.0.1
